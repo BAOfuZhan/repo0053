@@ -5,10 +5,10 @@
         {
             "username": "",
             "password": "",
-            "times": ["06:00", "22:00"],
-            "roomid": "11164",
-            "seatid": ["154"],
-            "seatPageId": "11164",
+            "times": ["08:00", "22:30"],
+            "roomid": "13485",
+            "seatid": ["304"],
+            "seatPageId": "13485",
             "fidEnc": "4a18e12602b24c8c",
             "daysofweek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
         }
